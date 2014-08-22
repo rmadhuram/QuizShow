@@ -1,0 +1,201 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+    <round>
+        <points values="100,200,300,400,500"/>
+        <section id="1" name="Psalms">
+            <questions>
+                <qa>
+                    <question><![CDATA[Psalms 23 starts with this verse.]]></question>
+                    <answer><![CDATA[The Lord is my shepherd. I shall not want.]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Psalms 23 starts with this verse.]]></question>
+                    <answer><![CDATA[The Lord is my shepherd. I shall not want.]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Psalms 23 starts with this verse.]]></question>
+                    <answer><![CDATA[The Lord is my shepherd. I shall not want.]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Psalms 23 starts with this verse.]]></question>
+                    <answer><![CDATA[The Lord is my shepherd. I shall not want.]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Psalms 23 starts with this verse.]]></question>
+                    <answer><![CDATA[The Lord is my shepherd. I shall not want.]]></answer>
+                </qa>                              
+            </questions>
+        </section>
+        <section id="2" name="Bible">
+            <questions>
+                <qa>
+                    <question><![CDATA[There are this many number of books in the Bible]]></question>
+                    <answer><![CDATA[66]]></answer>
+                </qa>     
+                <qa>
+                    <question><![CDATA[There are this many number of books in the Bible]]></question>
+                    <answer><![CDATA[66]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[There are this many number of books in the Bible]]></question>
+                    <answer><![CDATA[66]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[There are this many number of books in the Bible]]></question>
+                    <answer><![CDATA[66]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[There are this many number of books in the Bible]]></question>
+                    <answer><![CDATA[66]]></answer>
+                </qa>                                             
+            </questions>
+        </section>
+        <section id="3" name="Crossword clues 'A'">
+            <questions>
+                <qa>
+                    <question><![CDATA[The first high priest (5)]]></question>
+                    <answer><![CDATA[Aaron]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The first high priest (5)]]></question>
+                    <answer><![CDATA[Aaron]]></answer>
+                </qa> 
+                <qa>
+                    <question><![CDATA[The first high priest (5)]]></question>
+                    <answer><![CDATA[Aaron]]></answer>
+                </qa> 
+                <qa>
+                    <question><![CDATA[The first high priest (5)]]></question>
+                    <answer><![CDATA[Aaron]]></answer>
+                </qa> 
+                <qa>
+                    <question><![CDATA[The first high priest (5)]]></question>
+                    <answer><![CDATA[Aaron]]></answer>
+                </qa>                                                                                                                                  
+            </questions>
+        </section>
+        <section id="4" name="Parables">
+            <questions>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>                                                                                                                                
+            </questions>
+        </section>
+    </round>
+    
+    <round>
+        <points values="100,200,300,400,500"/>
+        <section id="1" name="Wine">
+            <questions>
+                <qa>
+                    <question><![CDATA[During this 40 year period the Israelites drank no wine]]></question>
+                    <answer><![CDATA[Wilderness journey ]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This happens to new wine when put in old wineskins]]></question>
+                    <answer><![CDATA[skins burst (Mark 2:22)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Lemuel is told in Proverbs that it is not good for people with this occupation to drink wine]]></question>
+                    <answer><![CDATA[Kings (Proverbs 31:4)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The king of Susa had been drinking wine when he commanded this woman be brought out]]></question>
+                    <answer><![CDATA[Queen Vashti (Esther 1:10-11)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[According to Hosea, this Middle East country is famed for its wine.]]></question>
+                    <answer><![CDATA[Lebanon (Hosea 14:7)]]></answer>
+                </qa>
+            </questions>
+        </section>
+        <section id="2" name="Flora">
+            <questions>
+                <qa>
+                    <question><![CDATA[The dove returned to Noah's ark with this in its mouth.]]></question>
+                    <answer><![CDATA[Olive leaf]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This man climbed a tree in order to see Jesus.]]></question>
+                    <answer><![CDATA[Zacchaeus]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Aaron's rod that budded brought forth this type of fruit]]></question>
+                    <answer><![CDATA[Almonds (Num 17:8)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Absalom was fleeing battle when he got his head caught in this type of tree]]></question>
+                    <answer><![CDATA[Terebinth (oak) (2 Sam 18:9)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The men who went to spy on Cannon brought grapes, figs and these]]></question>
+                    <answer><![CDATA[Pomegranates (Num 13:23)]]></answer>
+                </qa>
+            </questions>
+        </section>
+        <section id="3" name="Parables">
+            <questions>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like this seed]]></question>
+                    <answer><![CDATA[mustard]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The man who built his house upon the sand is compared to this]]></question>
+                    <answer><![CDATA[he who hears God's words and does not put them into practice]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The kingdom of heaven is like leaven, which a woman took and did this.]]></question>
+                    <answer><![CDATA[hid in three measures of meal till it was all leavened (Mat 13:33)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The merchant sold all that he had to acquire this.]]></question>
+                    <answer><![CDATA[The sluggard (Prov 22:13)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Jesus told the parable of the unforgiving servant when Peter asked him about this.]]></question>
+                    <answer><![CDATA[how many times should I forgive my brother? (Matt 18:21)]]></answer>
+                </qa>
+            </questions>
+        </section>
+        <section id="4" name="What comes next?">
+            <questions>
+                <qa>
+                    <question><![CDATA[Come, let us bow down in worship, let us kneel before the LORD our Maker;]]></question>
+                    <answer><![CDATA[for he is our God and we are the people of his pasture, the flock under his care... (Ps 95:7)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Blessed are the meek, for they will inherit the earth.]]></question>
+                    <answer><![CDATA[Blessed are those who hunger and thirst for righteousness, for they will be filled. (Matt 5:6)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Though the fig tree does not bud and there are no grapes on the vines,...and no cattle in the stalls, ]]></question>
+                    <answer><![CDATA[yet I will rejoice in the LORD, I will be joyful in God my Savior. (Habakkuk 3:18)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.]]></question>
+                    <answer><![CDATA[I am the good shepherd. The good shepherd lays down his life for the sheep (John 10:11)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[No, in all these things we are more than conquerors through him who loved us.]]></question>
+                    <answer><![CDATA[For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.(Rom 8:38-39)]]></answer>
+                </qa>
+            </questions>
+        </section>
+    </round>    
+</quiz>

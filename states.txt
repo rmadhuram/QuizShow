@@ -1,0 +1,12 @@
+
+ start
+   = welcome screen
+   + start --> sections
+   
+   
+ sections
+   = screen showing the sections.
+   + showboard --> board
+   
+ board
+   = 

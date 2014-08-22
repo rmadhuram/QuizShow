@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+
+<project name="QuizShow" default="init" basedir=".">
+
+    <!-- build castor model files  -->
+    <target name="build.castor" >  
+       <delete dir="src/castor"/>
+       <java classname="org.exolab.castor.builder.SourceGenerator" fork="true">
+       		<classpath>
+				<pathelement location="lib/castor-0.9.5.3-xml.jar"/>
+				<pathelement location="lib/xerces.jar"/>
+       		</classpath>
+       		<arg line="-i ./db/quiz.xsd -package net.raj.quiz.model -dest src/castor" />
+       </java>
+    </target>
+	
+	<property name="version" value="1.0.0" />
+
+    <property name="build.dir"  value="./build"/>
+    <property name="classes.dir"  value="${build.dir}/classes"/>
+    <property name="jar.dir"  value="${build.dir}/jar"/>
+    <property name="dist.dir"  value="dist"/>
+    <property name="dist.file" value="quiz-${version}.zip" />
+    <property name="source.dir" value="./src/main" />
+	<property name="source.castor.dir" value="./src/castor" />
+    <property name="lib.dir" value="../ThirdPartyJars" />
+	<property name="local.lib.dir" value="./lib" />
+	<property name="build.lib.dir" value="../build" />
+    <property name="package.file" value="quiz.jar" />
+	<property name="jetty.dir" value="c:\raj\software\jetty-5.1.3" />
+	
+    <path id="project.classpath">
+    	<fileset dir="${local.lib.dir}">
+    		<include name="*.jar"/>
+        </fileset>
+    	<fileset dir="${jetty.dir}/lib">
+    		<include name="*.jar"/>
+        </fileset>    	
+    	<fileset dir="${jetty.dir}/ext">
+    		<include name="*.jar"/>
+        </fileset>     	
+    </path>
+
+    <!-- 
+        Init - Initializes the build environment.
+    -->
+    <target name="init" >
+        <mkdir dir="${build.dir}" />
+        <mkdir dir="${classes.dir}" />
+    </target>
+
+    <!--
+        Build - Compiles source files and copies copiled code and libraries to 
+                destination directory.
+    -->
+    <target name="build" depends="init">
+        <javac  destDir="${classes.dir}" classpathref="project.classpath">
+        	<src path="${source.dir}"/>
+            <src path="${source.castor.dir}"/> 
+        </javac>
+
+        <copy toDir="${classes.dir}">
+            <fileset dir="${source.dir}">
+              <include name="**/*.properties"/>
+              <include name="**/*.xml"/>
+            </fileset>
+        </copy>
+    	
+    </target>
+
+    <!--
+        Package - Bundles the compiled code. 
+    -->
+    <target name="package" depends="build">
+		<mkdir dir="${jar.dir}" />
+        <jar jarfile="${jar.dir}/${package.file}" basedir="${classes.dir}">
+          <manifest>
+            <attribute name="Built-By" value="Neogen Software Solutions"/>
+            <attribute name="Specification-Title" value="UI Wizard Framework"/>
+            <attribute name="Specification-Version" value="${version}"/>
+            <attribute name="Specification-Vendor" value="Neogen"/>
+            <attribute name="Implementation-Title" value="UI Wizard Framework"/>
+            <attribute name="Implementation-Version" value="${version}"/>
+            <attribute name="Implementation-Vendor" value="Neogen"/>
+          </manifest>
+        </jar>
+    </target>
+
+    <!--
+        dist
+    -->
+    <target name="dist" depends="package">
+    	<mkdir dir="${dist.dir}" />
+    	<mkdir dir="${dist.dir}/db" />
+    	<mkdir dir="${dist.dir}/data" />
+    	<mkdir dir="${dist.dir}/data/test" />
+    	<mkdir dir="${dist.dir}/web" />
+    	<mkdir dir="${dist.dir}/lib" />
+    	
+    	<copy todir="${dist.dir}/lib">
+    	    <fileset dir="${jetty.dir}/lib"/>
+    	</copy>
+    	
+    	<copy todir="${dist.dir}/lib">
+    	    <fileset dir="lib"/>
+    	</copy>	
+    	
+    	<copy todir="${dist.dir}/web">
+    	    <fileset dir="web"/>
+    	</copy>	
+    	
+    	<copy todir="${dist.dir}/lib">
+    	    <fileset dir="${jetty.dir}/ext"/>
+    	</copy>
+    	
+    	<copy todir="${dist.dir}/data/test">
+    	    <fileset dir="data/quiz02"/>
+    	</copy>	
+    	
+    	<copy file="${jar.dir}/${package.file}" toDir="${dist.dir}/lib" />
+    	<copy file="ini/quiz.bat" toDir="${dist.dir}" />
+    	<copy file="db/quiz.xsd" toDir="${dist.dir}/db" />
+    	<zip zipFile="${jar.dir}/${dist.file}" baseDir="${dist.dir}" />   
+    </target>
+
+    <!--
+        Clean - Removes all components of the final build. 
+    -->
+    <target name="clean">
+        <delete dir="${build.dir}" />
+        <delete dir="${dist.dir}" />
+    </target>
+    
+    <!--
+        Default - Compiles source files and copies copiled code and libraries to 
+                destination directory.
+    -->
+    <target name="default">
+        <echo>Compile options:</echo>
+        <echo>  build: builds the source tree and copies output to build directory</echo>
+    </target>
+  
+</project>

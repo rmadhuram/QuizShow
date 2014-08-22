@@ -1,0 +1,108 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+    <round>
+        <points values="100,200,300,400,500"/>
+        <section id="1" name="Transportation">
+            <questions>
+                <qa>
+                    <question><![CDATA[The invention of this in Sumer (in Mesapotamia) revolutionized transportation.]]></question>
+                    <answer><![CDATA[Wheel]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[There are more than one billion of these vehicles in the world.]]></question>
+                    <answer><![CDATA[Bicycles]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Sir. Richard Branson started this company, the world's first spaceline!]]></question>
+                    <answer><![CDATA[Virgin Galactic]]></answer>
+                    <masterNotes>Burt Rutan - Ansari X Prize - Spaceship One</masterNotes>     
+                </qa>
+                <qa image="images/rocket.jpg">
+                    <question><![CDATA[This person designed the vehicle shown here.]]></question>
+                    <answer><![CDATA[Robert Stephenson - Rocket, the first modern steam locomotive]]></answer>
+                </qa>
+                <qa image="images/Buran.jpg">
+                    <question><![CDATA[Identify this vehicle.]]></question>
+                    <answer><![CDATA[Buran]]></answer>
+                    <masterNotes>It took off once in 1989 and made automated landing</masterNotes>     
+                </qa>
+            </questions>
+        </section>
+        <section id="2" name="Landmarks">
+            <questions>
+                <qa image="images/land/Angkor_wat_temple.jpg">
+                    <question><![CDATA[This temple complex in Cambodia was built in the 12th century]]></question>
+                    <answer><![CDATA[Angkor Wat]]></answer>
+                </qa>
+                <qa image="images/land/burj.JPG">
+                    <question><![CDATA[The name of the tallest building in the world was recently changed to this.]]></question>
+                    <answer><![CDATA[Burj Khalifa]]></answer>
+                    <masterNotes>In the honor of the President of UAE. Earlier it was called Burj Dubai</masterNotes>
+                </qa>                
+                <qa image="images/land/Uluru.JPG">
+                    <question><![CDATA[Also referred to as Ayers Rock, this is the native name of the large sandstone rock seen here.]]></question>
+                    <answer><![CDATA[Uluru]]></answer>
+                </qa>                
+                <qa image="images/land/SaintBasile.jpg">
+                    <question><![CDATA[Identify this important landmark of Russia situated on the Red Square.]]></question>
+                    <answer><![CDATA[St. Basil's Cathedral]]></answer>
+                    <masterNotes>Also called as "The Cathedral of Intercession of Theotokos on the Moat"</masterNotes>
+                </qa>                
+                <qa image="images/land/KRN.jpg">
+                    <question><![CDATA[This hotel seen here was scheduled to be completed in 1989, but work is still going on...]]></question>
+                    <answer><![CDATA[Ryugyong Hotel]]></answer>
+                    <masterNotes>in Pyongyang, N.Korea</masterNotes>
+                </qa>
+            </questions>
+        </section>        
+        <section id="3" name="Pictograms">
+            <questions>
+                <qa image="images/pict/split.gif">
+                    <question></question>
+                    <answer><![CDATA[Split Personality]]></answer>
+                </qa>
+                <qa image="images/pict/h2o.gif">
+                    <question></question>
+                    <answer><![CDATA[H2O (Water)]]></answer>
+                </qa>
+                <qa image="images/pict/summary.gif">
+                    <question></question>
+                    <answer><![CDATA[Summary]]></answer>
+                </qa>
+                <qa image="images/pict/link.jpg">
+                    <question></question>
+                    <answer><![CDATA[Missing LINK]]></answer>
+                </qa>
+                <qa image="images/pict/pain.gif">
+                    <question></question>
+                    <answer><![CDATA[Painless Operation]]></answer>
+                </qa>                                                                
+            </questions>
+        </section>
+
+        <section id="4" name="Potpourri">
+            <questions>
+                <qa>
+                    <question><![CDATA[This form of music is translated as "Empty Orchestra" in Japanese.]]></question>
+                    <answer><![CDATA[Karaoke]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This is the name of the highly valuable mineral found on the moon Pandora.]]></question>
+                    <answer><![CDATA[Unobtanium]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This now defunct company's tagline is "Always ask why"]]></question>
+                    <answer><![CDATA[Enron]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[These animals are said to account for more human deaths in Africa than any other African mammal.]]></question>
+                    <answer><![CDATA[Hippopotamus ]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[One trillion terabytes is this.]]></question>
+                    <answer><![CDATA[1 Yottabyte (Tera - Peta - Exa - Zetta - Yotta)]]></answer>
+                    <masterNotes>1000^4 is tera, peta, exa, zetta and yotta</masterNotes>                    
+                </qa>
+            </questions>
+        </section>
+    </round>
+</quiz>

@@ -1,0 +1,26 @@
+
+TODO:
+
+Quiz modeler:
+  - JSP based UI for creating a question bank.
+
+Crash recovery:
+  - from the round it left
+
+Quiz:
+  - Quiz title & image
+  - Images on section titles
+  - Better border on questions?
+  - Transition effects
+  - Installing quiz banks and un-installing them
+  - Security (so no one else can connect and hack :P )
+    - conductor sets a random code
+    - when connecting via jsp, validate with code.
+  - End of quiz notification, score display
+  
+  
+Site:
+  - People can upload quiz banks
+  - Site parses all the data and displays questions & answers for people to select.
+  - 
+  

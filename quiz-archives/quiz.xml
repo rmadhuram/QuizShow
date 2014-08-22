@@ -1,0 +1,182 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Mother's Day">
+			<questions>
+				<qa>
+					<question><![CDATA[She is called the mother of all <br>the living]]></question>
+					<answer>Eve (Gen 3:20)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[She was the mother of Samuel and wife of Elkanah]]></question>
+					<answer>Hannah (I Samuel 1)</answer>
+				</qa>		
+				<qa>
+					<question><![CDATA[This is the first commandment with a promise]]></question>
+					<answer><![CDATA[Honor your father and your mother, so that you may live long in the land the LORD your God is giving you. Exodus 20:12, Deut 5:16, Eph 6:2]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This mother of Timothy receives a special mention in Paul's letter for her faith]]></question>
+					<answer>Eunice (II Timothy 1:5)</answer>
+				</qa>		
+				<qa>
+					<question><![CDATA[Hagar is compared to Mount Sinai, but Sarah is compared to this, who is the mother of us all]]></question>
+					<answer>Heavenly Jerusalem (Galatians 4:26)</answer>
+				</qa>												
+						
+			</questions>
+		</section>
+		<section id="2" name="Numbers">
+			<questions>
+				<qa>
+					<question><![CDATA[Number of the beast; <br>number of a man]]></question>
+					<answer>666 (Rev 13:18)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Number of stones <br>David put in his pouch ]]></question>
+					<answer>5 (I Samuel 17:40)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Number of synoptic gospels]]></question>
+					<answer>3</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Number of years Adam lived]]></question>
+					<answer>930 (Gen 5:5)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[One cubit (as in Noah's time) is approximately this many inches]]></question>
+					<answer>18</answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="3" name="James">
+			<questions>
+				<qa>
+					<question>
+			                     <![CDATA[It is commonly believed that His half brother wrote the book of James]]>			          
+			          </question>
+					<answer>
+			                     Jesus
+			           </answer>
+				</qa>
+				<qa>
+					<question>
+			                     <![CDATA[Due to the practical advices it gives, the book of James is also referred to as ____ of the new testament.]]>			          
+			          </question>
+					<answer>
+			                     Proverbs
+			           </answer>
+				</qa>			
+				
+				<qa>
+					<question>
+			                     <![CDATA[When giving examples of praxis, that is 'faith without works is dead', James illustrates the example of Abraham along with this woman.]]>			          
+			          </question>
+					<answer>
+			                     Rahab
+			           </answer>
+				</qa>									
+				
+				<qa>
+					<question>
+			                     <![CDATA[According to James, this triumphs over judgement.]]>			          
+			          </question>
+					<answer>
+			                     Mercy
+			           </answer>
+				</qa>								
+				
+				<qa>
+					<question>
+			                     <![CDATA[The book of James was included in the canon during 397 AD at this council.]]>			          
+			          </question>
+					<answer>
+			                     Council of Carthage.
+			           </answer>
+				</qa>		
+								
+			</questions>
+		</section>
+		<section id="4" name="What comes next?">
+			<questions>
+				<qa>
+					<question>
+			                     <![CDATA[Lord, we don't know where you are going, so how can we know the way?]]>
+			                  </question>
+					<answer>
+			                      <![CDATA[Jesus answered, "I am the way and the truth and the life. No one comes to the Father except through me. (John 14:6)]]>
+					</answer>
+				</qa>
+				<qa>
+					<question>
+			                     <![CDATA[Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done.]]>
+			                  </question>
+					<answer>
+			                      <![CDATA[I am the Alpha and the Omega, the First and the Last, the Beginning and the End (Rev 22:13)]]>
+					</answer>
+				</qa>
+				<qa>
+					<question>
+			                     <![CDATA[This is what the LORD says, he who made the earth, the LORD who formed it and established it - the LORD is his name:]]>
+			                  </question>
+					<answer>
+			                      <![CDATA[Call to me and I will answer you and tell you great and unsearchable things you do not know. (Jeremiah 33:3)]]>
+					</answer>
+				</qa>
+				
+				<qa>
+					<question>
+			                     <![CDATA[Fear the LORD, you his saints, for those who fear him lack nothing. ]]>
+			                  </question>
+					<answer>
+			                      <![CDATA[The lions may grow weak and hungry, but those who seek the LORD lack no good thing. (Ps 34:10)]]>
+					</answer>
+				</qa>
+				
+				<qa>
+					<question>
+			                     <![CDATA[Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and then turn and tear you to pieces.]]>
+			                  </question>
+					<answer>
+			                      <![CDATA[Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. (Matthew 7:7)]]>
+					</answer>
+				</qa>																
+			</questions>
+		</section>
+		<section id="5" name="Crossword clues 'A'">
+			<questions>
+				<qa>
+					<question><![CDATA[His brother asked, "Am I my brother's keeper?" (4)]]></question>
+					<answer>
+			                      Abel 
+			          </answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Paul saw an altar with the inscription "TO AN UNKNOWN GOD" in this city. (6)]]></question>
+					<answer>
+			                      Athens 
+			          </answer>
+				</qa>
+				<qa>
+					<question><![CDATA[A Title of Christ; A word used to reinforce a statement.(4)]]></question>
+					<answer>
+			                      Amen  (Rev 3:14)
+			          </answer>
+				</qa>
+							<qa>
+					<question><![CDATA[It doesn't mean to feel sorry for, but means a defense of faith (11)]]></question>
+					<answer>
+			                      Apologetics 
+			          </answer>
+				</qa>
+							<qa>
+					<question><![CDATA[He ruled over 127 provinces stretching from India to Cush (9)]]></question>
+					<answer>
+			                      Ahasuerus (Esther 1:1) 
+			          </answer>
+				</qa>							
+			</questions>
+		</section>
+	</round>
+</quiz>

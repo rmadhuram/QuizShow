@@ -1,0 +1,292 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+	<round>
+		<points values="100,200,300,400,500"/>
+      <section id="1" name="Angels">
+         <questions>
+            <qa>
+               <question><![CDATA[An angel rolled a stone away from here: ]]></question>
+               <answer><![CDATA[A tomb (Matthew 28:2)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Cherubim with a flaming sword guarded the way to this]]></question>
+               <answer><![CDATA[The tree of life (Genesis 3:24)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[An angel told this man to send messengers to Joppa: ]]></question>
+               <answer><![CDATA[Cornelius (Acts 10:3-5)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[An angel slew 185,000 soldiers from this army]]></question>
+               <answer><![CDATA[Assyrian (Isaiah 37:36)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This man saw an angel ascend in the flame of an altar:]]></question>
+               <answer><![CDATA[Manoah (Judges 13:20)]]></answer>
+            </qa>
+         </questions>
+      </section>		
+		<section id="2" name="Contemporary Music">
+			<questions>
+				<qa image="images/keyboard.gif">
+					<question><![CDATA[
+					Song heard here was written <br>and 
+					composed by Daniel Gardner]]></question>
+					<answer><![CDATA[<u>My Life is in You</u><br>
+					My life is in You, Lord<br>
+My strength is in You, Lord<br>
+My hope is in You, Lord<br>
+In You, it's in You <br>
+<br>
+I will praise You with all of my life<br>
+I will praise You with all of my strength<br>
+With all of my life<br>
+With all of my strength<br>
+All of my hope is in You <br>
+					
+]]></answer>
+					<audioclip file="sounds/contemp/my_life_is_in_you.mid" startTime="20" endTime="40"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/keyboard.gif">
+					<question><![CDATA[
+					This song was composed by Graham Kendrick, <br>
+					who also wrote Shine, Jesus Shine]]></question>
+					<answer><![CDATA[<u>Amazing Love</u><br>
+My Lord, what love is this that pays so dearly <br>
+That I the guilty one, may go free <br>
+<br>
+Amazing love oh what sacrifice <br>
+The Son of God giv`n for me <br>
+My debt He pays and my death He dies <br>
+That I might live, that I might live <br>
+
+]]></answer>
+					<audioclip file="sounds/contemp/amazinglove.mid" startTime="40" endTime="60"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/notes_009.gif">
+					<question>This song is from the Passion worship band</question>
+					<answer><![CDATA[<u>Blessed be Your name</u><br>
+Blessed Be Your Name in the land that is plentiful <br>
+Where Your streams of abundance flow, Blessed be Your name<br>
+<br>
+Blessed Be Your name when I'm found in the desert place<br>
+Though I walk through the wilderness, Blessed Be Your name<br>
+<br>
+Every blessing You pour out, I'll turn back to praise<br>
+When the darkness closes in, Lord, still I will say<br>
+<br>
+Blessed be the name of the Lord, Blessed be Your name<br>
+Blessed be the name of the Lord, Blessed be Your glorious name<br>
+
+]]></answer>
+					<audioclip file="sounds/contemp/blessedbeyourname.mid" startTime="115" endTime="135"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/notes_009.gif">
+					<question><![CDATA[The song heard here was 
+					written<br> and composed by this<br>well-known pastor]]></question>
+					<answer><![CDATA[<u>Majesty (Pastor Jack Hayford)</u><br>
+Majesty, worship his majesty, <br>
+Unto Jesus be all glory, honor, and praise. <br>
+Majesty, kingdom authority flow from his throne unto his own;<br>
+His anthem raise.<br>
+<br>
+So exalt, lift up on high the name of Jesus,<br>
+Magnify, come glorify Christ Jesus the King.<br>
+Majesty, worship his majesty; <br>
+Jesus who died, now glorified, King of all Kings.<br>
+
+
+]]></answer>
+					<audioclip file="sounds/contemp/majesty2.mid" startTime="25" endTime="45"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/notes_009.gif">
+					<question><![CDATA[
+					Kelly Willard in 1982 composed this<br>
+					song heard here]]></question>
+					<answer><![CDATA[<u>Make Me a Servant</u><br><br>
+Make me a servant, humble and meek<br>
+Lord, let me lift up, those who are weak.<br>
+And may the pray'r of my heart always be;<br>
+Make me a servant, make me a servant,<br>
+Make me a servant, today.<br>
+
+]]></answer>
+					<audioclip file="sounds/contemp/MAKEMESV.mid" startTime="20" endTime="40"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+			</questions>
+		</section>
+      <section id="3" name="What comes next?">
+         <questions>
+            <qa>
+               <question><![CDATA[Lord, we don't know where you are going, so how can we know the way?]]></question>
+               <answer><![CDATA[Jesus answered, "I am the way and the truth and the life. No one comes to the Father except through me. (John 14:6)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done.]]></question>
+               <answer><![CDATA[I am the Alpha and the Omega, the First and the Last, the Beginning and the End (Rev 22:13)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This is what the LORD says, he who made the earth, the LORD who formed it and established it - the LORD is his name:]]></question>
+               <answer><![CDATA[Call to me and I will answer you and tell you great and unsearchable things you do not know. (Jeremiah 33:3)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Fear the LORD, you his saints, for those who fear him lack nothing. ]]></question>
+               <answer><![CDATA[The lions may grow weak and hungry, but those who seek the LORD lack no good thing. (Ps 34:10)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and then turn and tear you to pieces.]]></question>
+               <answer><![CDATA[Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. (Matthew 7:7)]]></answer>
+            </qa>
+         </questions>
+      </section>
+      <section id="4" name="Crossword clues 'A'">
+         <questions>
+            <qa>
+               <question><![CDATA[His brother asked, "Am I my brother's keeper?" (4)]]></question>
+               <answer>
+                     Abel 
+                </answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Paul saw an altar with the inscription "TO AN UNKNOWN GOD" in this city. (6)]]></question>
+               <answer>
+                               Athens 
+                   </answer>
+            </qa>
+            <qa>
+               <question><![CDATA[A Title of Christ; A word used to reinforce a statement.(4)]]></question>
+               <answer>
+                               Amen  (Rev 3:14)
+                   </answer>
+            </qa>
+            <qa>
+               <question><![CDATA[It doesn't mean to feel sorry for, but means a defense of faith (11)]]></question>
+               <answer>
+                               Apologetics 
+                   </answer>
+            </qa>
+            <qa>
+               <question><![CDATA[He ruled over 127 provinces stretching from India to Cush (9)]]></question>
+               <answer>
+                               Ahasuerus (Esther 1:1) 
+                   </answer>
+            </qa>
+         </questions>
+      </section>
+	</round>
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Advanced Math">
+			<questions>
+				<qa>
+					<question><![CDATA[Joe reads a book every month.<br>
+					 it will take him this many years to <br>finish reading the Bible.]]></question>
+					<answer>Five and a half (66/12)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[(x/y)!<br>x = Number of remnants in each tribe and<br>
+                      y = Approximate number of people added to the Church according to Acts 2]]></question>
+					<answer>4! = 24</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Search all you can to know the answer for 10^(x) <br>where x = 10^(a-b)
+					<br>a = Chapter number of the longest<br> chapter in the Bible.
+					<br>b = Chapter number of the shortest<br> chapter in the Bible.]]></question>
+					<answer><![CDATA[Googol (10^100)<br>
+					Longest - Psalm 119, Shortest - Psalm 117]]></answer>
+				</qa>
+				<qa image="images/temple.gif">
+					<question><![CDATA[The Holy of Holies is a square.<br>If one cubit = 0.45 metre<br>
+					This is the area of the Holy place in sq.m]]></question>
+					<answer>162 sq.m</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[In revelations,<br>Number of Churches + <br>
+					Number of Seals<br> + 
+					Number of Trumpets<br> +
+					Number of Plagues<br> +
+					Number of parts the Great city will be split]]></question>
+					<answer><![CDATA[7+7+7+7+3 (Rev 16:19) = 31]]></answer>
+				</qa>
+			</questions>
+		</section>
+      <section id="2" name="Children">
+         <questions>
+            <qa>
+               <question><![CDATA[This child was hidden at the edge of a river to avoid being killed]]></question>
+               <answer><![CDATA[Moses (Ex 2:3)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This king threatened to cut a child in half]]></question>
+               <answer><![CDATA[Solomon (1 Kings 3:25)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This child was dropped by his nurse, and was crippled for life]]></question>
+               <answer><![CDATA[Mephibosheth (2 Sam 4:4)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This child was born as his mother heard news of his father's death.]]></question>
+               <answer><![CDATA[Ichabod (1Sam 4:21)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This boy was 7 years old when he began to reign]]></question>
+               <answer><![CDATA[Joash (2Ki 11:21)]]></answer>
+               <masterNotes>Josiah was 8 years old when he began to reign</masterNotes>
+            </qa>
+         </questions>
+      </section>
+		<section id="3" name="Dumb Charades">
+			<questions>
+				<qa image="images/Surprize.gif">
+					<question><![CDATA[]]></question>
+					<answer>Moses</answer>
+				</qa>
+				<qa image="images/Surprize.gif">
+					<question><![CDATA[]]></question>
+					<answer>Ark of the covenent</answer>
+				</qa>
+				<qa image="images/Surprize.gif">
+					<question><![CDATA[]]></question>
+					<answer>John the Baptist</answer>
+				</qa>
+				<qa image="images/Surprize.gif">
+					<question><![CDATA[]]></question>
+					<answer>Apocalypse</answer>
+				</qa>
+				<qa image="images/Surprize.gif">
+					<question><![CDATA[]]></question>
+					<answer>Judas Iscariot</answer>
+				</qa>
+			</questions>
+		</section>
+      <section id="4" name="Who said it?">
+         <questions>
+            <qa>
+               <question><![CDATA["But even if He does not, we want you to know, O king, that we will not serve your gods or worship the image of gold you have set up."]]></question>
+               <answer><![CDATA[Shadrach, Meshach and Abednego (Daniel 3:18)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA["You brood of vipers! Who warned you to flee from the coming wrath?"]]></question>
+               <answer><![CDATA[John the baptist (Matt 3:7)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA["Out of the eater, something to eat; out of the strong, something sweet."]]></question>
+               <answer><![CDATA[Samson (Judges 14:14)]]></answer>
+               <masterNotes>Samson had taken honey from a hive that had been formed in the carcass of a lion (Judg. 14:8,17)</masterNotes>
+            </qa>
+            <qa>
+               <question><![CDATA["There is a lion outside!", "I will be murdered in the streets!" ]]></question>
+               <answer><![CDATA[The sluggard (Prov 22:13)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA["Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail. But if it is from God, you will not be able to stop these men;"]]></question>
+               <answer><![CDATA[Gamaliel (Acts 5:38,39)]]></answer>
+            </qa>
+         </questions>
+      </section>
+	</round>
+</quiz>

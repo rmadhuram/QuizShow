@@ -1,0 +1,201 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+	<round>
+		<points values="100,200,300,400,500"/>
+      <section id="1" name="CCI">
+         <questions>
+            <qa>
+               <question><![CDATA[The event that took place on Mount Calvary]]></question>
+               <answer><![CDATA[Crucifixion]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[The words of the Teacher, son of David, king in Jerusalem]]></question>
+               <answer><![CDATA[Ecclesiastes]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[People from this province were present in Jerusalem for the feast of Pentecost]]></question>
+               <answer><![CDATA[Cappadocia]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This province is where Paul's home city of Tarsus was located]]></question>
+               <answer><![CDATA[Cilicia (Acts 21:39)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Josiah was killed in the Battle of Megiddo, which was fought in this place.]]></question>
+               <answer><![CDATA[Carchemish or Charchemish (KJV)<br>II Chronicles 35:20-35]]></answer>
+            </qa>
+         </questions>
+      </section>		
+		<section id="2" name="Bible People Pairs">
+         <questions>
+            <qa>
+               <question><![CDATA[The first children mentioned in the Bible]]></question>
+               <answer><![CDATA[Cain & Abel]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[When they were singing hymns in the prison, the earth shook!]]></question>
+               <answer><![CDATA[Paul & Silas]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Tentmakers; they risked their lives to save Paul]]></question>
+               <answer><![CDATA[Priscilla & Aquila <br> Acts 18:2-3, Romans 16:3-4]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Paul urges these women to be of the same mind in the Lord]]></question>
+               <answer><![CDATA[Euodia & Syntyche (Philippians 4:2)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Now the eyes of Israel were dim with age, so that he could not see. Then Joseph brought them near him, and he kissed them and embraced them. (NKJV)]]></question>
+               <answer><![CDATA[Ephraim and Manasseh (Genesis 48:10)]]></answer>
+               <masterNotes>Even today, Jews bless their children on Shabbat to "be like Ephraim and Manasseh"</masterNotes>
+            </qa>
+         </questions>
+		</section>
+      <section id="3" name="Did you pay attention?">
+         <questions>
+            <qa>
+               <question><![CDATA[In the series "Bible 360", Dr. JP taught us that requirement of the law was ___, ___ and ___ obedience (all starting with P)]]></question>
+               <answer><![CDATA[Personal, Perfect and Perpetual]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[In the sermon on feeding of the 5000, we saw that Jesus's was the voice of confidence, and his was the voice of calculation.]]></question>
+               <answer><![CDATA[Philip's (John 6:1-15)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[In Pastor uncle's message in James, we learned to be swift to ____, slow to ____ and slow to ____]]></question>
+               <answer><![CDATA[hear (listen), speak, anger (James 1:19) ]]></answer>
+            </qa>             
+            <qa>
+               <question><![CDATA[Dr Fox's new year sermon was titled "Lord of the ____"]]></question>
+               <answer><![CDATA[Hours]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Bro Kolli in one of his messages talked about this "Apostle of the Lepers", who gave his life ministering to people with leprosy.]]></question>
+               <answer><![CDATA[Father Damien]]></answer>
+            </qa>
+         </questions>
+      </section>
+      <section id="4" name="The High Cost of Free Grace">
+         <questions>
+            <qa>
+               <question><![CDATA[David wanted to build this for God, but was rejected]]></question>
+               <answer><![CDATA[God's temple]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[When reflecting on Psalms 23, we learnt that the rod is for ____ and staff is for ____]]></question>
+               <answer><![CDATA[Rod - Chastisement<br>Staff - Encouragement]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[We learnt that in Christian life, suffering is not an option, but an _____]]></question>
+               <answer><![CDATA[Obligation]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[In Acts 5, complete the following: "And they departed from the presence of the council, ____"]]></question>
+               <answer><![CDATA[rejoicing that they were counted worthy to suffer shame for His name (Acts 5:41)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[William Borden of Yale jotted these three "no"s in his Bible.]]></question>
+               <answer><![CDATA[No reserves<br>No retreats<br>No regretss]]></answer>
+            </qa>            
+         </questions>
+      </section>
+	</round>
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Youth Sessions Review">
+         <questions>
+            <qa>
+               <question><![CDATA[At His baptism, the Spirit descends upon Jesus as this type of bird…]]></question>
+               <answer><![CDATA[Dove (Mark 1:10)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[According to Phil. 3:10, Paul seeks to know Christ more and the power of his ____]]></question>
+               <answer><![CDATA[Resurrection]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[The law came through this Prince of Egypt]]></question>
+               <answer><![CDATA[Moses]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This Bible translation reads the beginning portion of John 1:14 as: “The Word became flesh and blood and moved into the neighborhood”]]></question>
+               <answer><![CDATA["The Message"]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Paul says he of this tribe...]]></question>
+               <answer><![CDATA[Benjamin (Phil 3:5)]]></answer>
+            </qa>
+         </questions>
+		</section>
+      <section id="2" name="Anagrams">
+         <questions>
+            <qa>
+               <question><![CDATA["Come follow me", Jesus said, "and I will make you ___" (7,2,3)<br><br>SEEN FROM FISH]]></question>
+               <answer><![CDATA[FISHERS OF MEN<br>------------------<br>SEEN FROM FISH<br><br>(Matthew 4:19)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Jewish feast that celebrates Jews being delivered from slavery (8)<br><br>SAVE PROS]]></question>
+               <answer><![CDATA[PASSOVER<br>------------------<br>SAVE PROS]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Those who have faith are these (4,2,7)<br><br>AROMA BOSH FANS]]></question>
+               <answer><![CDATA[SONS OF ABRAHAM<br>------------------<br>AROMA BOSH FANS]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[James (son of Zebedee) and his brother John (9)<br><br>SOB ENRAGE]]></question>
+               <answer><![CDATA[BOANERGES<br>------------------<br>SOB ENRAGE<br><br>(Mark 3:17)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Two books in the Bible are addressed to him; Friend of God (10)<br><br>POLITE HUSH]]></question>
+               <answer><![CDATA[THEOPHILUS<br>------------------<br>POLITE HUSH<br><br>(Luke 1:3, Acts 1:1)]]></answer>
+            </qa>
+         </questions>
+      </section>
+		<section id="3" name="Fulfilled Prophesies">
+         <questions>
+            <qa>
+               <question><![CDATA[Jeremiah 23:5 tells that the Messiah would be descendent of this king]]></question>
+               <answer><![CDATA[David]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Isaiah 40 tells about this messenger who was sent before Jesus]]></question>
+               <answer><![CDATA[John the Baptist]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Micah 5:2 tells about a place where Jesus was born, it means this.]]></question>
+               <answer><![CDATA[Bethlehem - House of Bread<br>Ephrathah - Fruitful]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[The prophesy in Isaiah 45:1 was fulfilled when Cyrus diverted this body of water before conquering Babylon]]></question>
+               <answer><![CDATA[The Euphrates River]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Ezekiel 26:12 was fulfilled in 332 BC when this king made a kilometer long bridge to conquer the island using the rocks and timber from mainland]]></question>
+               <answer><![CDATA[Alexandar the Great]]></answer>
+            </qa>
+         </questions>
+		</section>
+      <section id="4" name="Name Meanings">
+         <questions>
+            <qa>
+               <question><![CDATA[Hebrew meaning of his name is "ground" or "earth".]]></question>
+               <answer><![CDATA[Adam]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This feminine name in Hebrew means "to breathe" or "to live". No, we are not talking about wall-e here!]]></question>
+               <answer><![CDATA[Eve/Eva]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[This man, whose faith was tested by fire, was given a name in Chaldean that means "Servant of Nebo".]]></question>
+               <answer><![CDATA[Abednego (Azariah)]]></answer>
+            </qa>
+            <qa>
+               <question><![CDATA[Don't tell Dr. DoofenshmirtZ, this Jewish high priest's name means "the bronze colored one".]]></question>
+               <answer><![CDATA[Phinehas/Phineas (Exodus 6:25)]]></answer>
+            </qa>            
+            <qa>
+               <question><![CDATA[This king, whose name means "righteous ruler" in Persian, inquired about Nehemiah's sadness.]]></question>
+               <answer><![CDATA[Artaxerxes (Greek), Artakhshathra (Persian)]]></answer>
+            </qa>
+         </questions>
+      </section>
+	</round>
+</quiz>

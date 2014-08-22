@@ -1,0 +1,226 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Anagrams">
+			<questions>
+				<qa>
+					<question><![CDATA[By the rivers of this land in Shinar:<br>AN LOBBY]]></question>
+					<answer><![CDATA[AN LOBBY = BABYLON]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[At the start: CARE INTO]]></question>
+					<answer><![CDATA[CARE INTO = CREATION]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[A King of Egypt: MERE ASS]]></question>
+					<answer><![CDATA[MERE ASS = RAMESES]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Matthew 1: YOGA ENGEL]]></question>
+					<answer><![CDATA[YOGA ENGEL = GENEOLOGY]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Revelations: LOSE PAPACY]]></question>
+					<answer><![CDATA[LOSE PAPACY= APOCALYPSE]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="2" name="Music">
+			<questions>
+				<qa image="images/keyboard.gif">
+					<question><![CDATA[
+Identify the composer]]></question>
+					<answer><![CDATA[Handel
+					
+]]></answer>
+					<audioclip file="sounds/mesiah44.mid" startTime="20" endTime="40"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/keyboard.gif">
+					<question><![CDATA[
+					Identify the song]]></question>
+					<answer><![CDATA[Love Lifted Me
+
+]]></answer>
+					<audioclip file="sounds/love.mid" startTime="10" endTime="40"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/crystal.jpg">
+					<question>This church holds one of the world's largest pipe organs</question>
+					<answer><![CDATA[Crystal Cathedral
+
+]]></answer>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+				<qa image="images/notes_009.gif">
+					<question><![CDATA[She has written more than 8000 hymns, including the one heard here.]]></question>
+					<answer><![CDATA[Fanny Crosby
+
+
+]]></answer>
+					<audioclip file="sounds/blessed.mid" startTime="15" endTime="45"/>
+					<masterNotes>It is remarkable that she was blind. Other well known hymns are Praise Him.., Tell me the story of Jesus</masterNotes>
+				</qa>
+				<qa image="images/notes_009.gif">
+					<question><![CDATA[
+					The second stanza says that the Church <br> moves like this.]]></question>
+					<answer><![CDATA[A mighty army<br><br>"Like a mighty army, moves the church of God"
+
+]]></answer>
+					<audioclip file="sounds/onward.mid" startTime="0" endTime="30"/>
+					<masterNotes>blah blah</masterNotes>
+				</qa>
+			</questions>
+		</section>
+		<section id="3" name="Church History">
+			<questions>
+				<qa>
+					<question><![CDATA[This part of the Bible was written between 1-100 AD, which is called the Apostolic age.]]></question>
+					<answer>The New Testament</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This emperor set Rome on fire and murdered <br>a vast number of Christians in the <br>most cruel ways.]]></question>
+					<answer>Nero</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This ancient historian's first name is Flavius.<br>His works include "Antiquities of the Jews". ]]></question>
+					<answer>Josephus</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[These places occupied by monks, usually had a <br>library and school. They were built by <br>missionaries in the middle ages.]]></question>
+					<answer>Convents</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This movement started after the invention of the <br>printing press. It was spearheaded by <br> Martin Luther and gave birth to Protestantism.]]></question>
+					<answer>Reformation</answer>
+				</qa>				
+			</questions>
+		</section>
+		<section id="4" name="Bible Geography">
+			<questions>
+				<qa>
+					<question><![CDATA[The ark came to rest on this mountain.]]></question>
+					<answer>Mountains of Ararat</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[The people here were more noble.. <br>in that they received the word...<br>and searched the scriptures daily]]></question>
+					<answer>Berea</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Paul was born in this city]]></question>
+					<answer>Tarsus (Acts 21:39)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Antipas was martyred in this city, one of the seven churches of Revelations.]]></question>
+					<answer>Pergamum (Rev 2:13)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[One of the cities of refuge, it was finally captured by Israel in 1967.]]></question>
+					<answer>Golan (Heights)</answer>
+				</qa>
+			</questions>
+		</section>
+	</round>
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Minerals">
+			<questions>
+				<qa>
+					<question><![CDATA[New Jerusalem is made of this,<br> like clear glass.]]></question>
+					<answer>Pure Gold (Rev 21:18)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[The price of wisdom is beyond this.]]></question>
+					<answer>Rubies (Job 15:18)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Isralites sang: "But You blew with Your breath,
+and the sea covered them. They sank like ____ in the mighty waters."]]></question>
+					<answer><![CDATA[Lead (Exodus 15:10)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Jars made of this were filled with oil. One such jar was broken and oil was <br>poured on Jesus' head.]]></question>
+					<answer>Alabaster (Luke 7:37)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Elisha threw this into the spring of water to purify it.]]></question>
+					<answer><![CDATA[Salt (II Kings 2:21)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="2" name="Crossword clues 'Z'">
+			<questions>
+            <qa>
+               <question><![CDATA[City of God (4)]]></question>
+               <answer>Zion</answer>
+            </qa>
+				<qa>
+					<question><![CDATA[A prophet (9)]]></question>
+					<answer>Zachariah, Zephaniah</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[My papa was the priest of Midian (8)]]></question>
+					<answer><![CDATA[Zipporah (Exodus 2:16)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Jesus called my sons James and John: <br> Boanerges, that is sons of thunder. (7)]]></question>
+					<answer>Zebedee (Matthew 4:21)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[These were giants, as tall as the Anakim (9)]]></question>
+					<answer><![CDATA[Zamzummim (Deut 2:20)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="3" name="Names of God">
+			<questions>
+				<qa>
+					<question><![CDATA[God will provide]]></question>
+					<answer><![CDATA[Jehovah Jireh (Gen. 22:13-14)<br> i.e the Lord will provide a sacrifice]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[God the Almighty]]></question>
+					<answer>El Shaddai (Gen. 17:1)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[the Lord our righteousness]]></question>
+					<answer><![CDATA[Jehovah-tsidkenu (Jer. 23:6)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[A plural and masculine term that <br> means God who creates.]]></question>
+					<answer>Elohim (Gen 1:1, Gen 1:26)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[God the Highest.]]></question>
+					<answer><![CDATA[El Elyon (Gen. 14:18)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		
+		<section id="4" name="Miracles">
+			<questions>
+				<qa>
+					<question><![CDATA[This man was bitten by a poisonous snake, <br>which he shook into a fire, <br>and never felt any ill effect.]]></question>
+					<answer>Paul (Acts 28:3)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This man healed Paul from his blindness. ]]></question>
+					<answer>Ananias (Acts 9:17-18)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This man destroyed a Philistine temple with<br> strength given by God.]]></question>
+					<answer><![CDATA[Samson (Judges 16:28-29)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This young man was sitting on a third story window<br> listening to Paul's sermon that lasted past midnight. <br>He slept, fell down and died, <br>but was made alive.]]></question>
+					<answer>Eutychus (Acts 20:9)</answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This Philistine god lost its head when confronted with the ark of the covenant.]]></question>
+					<answer><![CDATA[Dagon (I Sam 5:4)]]></answer>
+				</qa>
+			</questions>
+		</section>
+						
+	</round>
+</quiz>

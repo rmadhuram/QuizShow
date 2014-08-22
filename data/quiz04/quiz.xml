@@ -1,0 +1,131 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+	<round>
+		<points values="100,200,300,400,500"/>
+		<section id="1" name="Angels">
+			<questions>
+				<qa>
+					<question><![CDATA[An angel rolled a stone away from here: ]]></question>
+					<answer><![CDATA[A tomb (Matthew 28:2)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Cherubim with a flaming sword guarded the way to this]]></question>
+					<answer><![CDATA[The tree of life (Genesis 3:24)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[An angel told this man to send messengers to Joppa: ]]></question>
+					<answer><![CDATA[Cornelius (Acts 10:3-5)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[An angel slew 185,000 soldiers from this army]]></question>
+					<answer><![CDATA[Assyrian (Isaiah 37:36)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This man saw an angel ascend in the flame of an altar:]]></question>
+					<answer><![CDATA[Manoah (Judges 13:20)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="2" name="Children">
+			<questions>
+				<qa>
+					<question><![CDATA[This child was hidden at the edge of a river to avoid being killed]]></question>
+					<answer><![CDATA[Moses (Ex 2:3)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This king threatened to cut a child in half]]></question>
+					<answer><![CDATA[Solomon (1 Kings 3:25)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This child was dropped by his nurse, and was crippled for life]]></question>
+					<answer><![CDATA[Mephibosheth (2 Sam 4:4)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This child was born as his mother heard news of his father's death.]]></question>
+					<answer><![CDATA[Ichabod (1Sam 4:21)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This boy was 8 years old when he began to reign]]></question>
+					<answer><![CDATA[Josiah (2Ki 22:1)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="3" name="What comes before?">
+			<questions>
+				<qa>
+					<question><![CDATA[For God did not send his Son into the world to condemn the world, 
+but to save the world through him]]></question>
+					<answer><![CDATA[For God so loved the world that he gave his one and only Son, that 
+whoever believes in him shall not perish but have eternal life.(John 3:16)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA["Of the increase of his government and peace there will be no 
+end..."]]></question>
+					<answer><![CDATA["For to us a child is born, to us a son is given,..." (Isaiah 9:6)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA["and are justified freely by his grace through the redemption that 
+came by Christ Jesus."]]></question>
+					<answer><![CDATA["for all have sinned and fall short of the glory of God" (Romans 3:23)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA["Can both fresh water and salt water flow from the same spring?"]]></question>
+					<answer><![CDATA["Out of the same mouth come praise and cursing. My brothers, this 
+should not be." (James 3:10)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA["Be self-controlled and alert. Your enemy the devil prowls around 
+like a roaring lion looking for someone to devour."]]></question>
+					<answer><![CDATA["Cast all your anxiety on him because he cares for you." (I Peter 5:7)]]></answer>
+				</qa>
+			</questions>
+		</section>
+		<section id="4" name="What`s in a name?">
+			<questions>
+				<qa>
+					<question><![CDATA[Father of multitude]]></question>
+					<answer><![CDATA[Abraham (Genesis 17:5)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[God is salvation]]></question>
+					<answer><![CDATA[Joshua]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[God is my Judge]]></question>
+					<answer><![CDATA[Daniel]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Son of the right hand]]></question>
+					<answer><![CDATA[Benjamin]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Father rejoices]]></question>
+					<answer><![CDATA[Abigail]]></answer>
+				</qa>
+			</questions>
+		</section>
+			<section id="5" name="Proverbs">
+			<questions>
+				<qa>
+					<question><![CDATA[The horse is made ready for the day of battle, ____]]></question>
+					<answer><![CDATA[ but victory rests with the LORD. (Proverbs 21:31)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[Pride goes before destruction ____]]></question>
+					<answer><![CDATA[a haughty spirit before a fall. (Proverbs 16:18) ]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[This is to be chosen rather than great riches]]></question>
+					<answer><![CDATA[a good name (Proverbs 22:1)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[All a man's ways seem right to him: ____]]></question>
+					<answer><![CDATA[but the LORD weighs the heart. (Proverbs 21:2)]]></answer>
+				</qa>
+				<qa>
+					<question><![CDATA[According to proverbs, this separates close friends]]></question>
+					<answer><![CDATA[a gossip (Proverbs 16:28)]]></answer>
+				</qa>
+			</questions>
+		</section>	
+	</round>
+</quiz>

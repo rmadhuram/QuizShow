@@ -1,0 +1,211 @@
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+    <round>
+        <points values="100,200,300,400,500"/>
+        <section id="1" name="Transportation">
+            <questions>
+                <qa>
+                    <question><![CDATA[The invention of this in Sumer (in Mesapotamia) revolutionized transportation.]]></question>
+                    <answer><![CDATA[Wheel]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[There are more than one billion of these vehicles in the world.]]></question>
+                    <answer><![CDATA[Bicycles]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Richard Branson started this company, the world's first spaceline. This has links to Prodea Systems!]]></question>
+                    <answer><![CDATA[Virgin Galactic]]></answer>
+                    <masterNotes>Burt Rutan - Ansari X Prize - Spaceship One</masterNotes>     
+                </qa>
+                <qa image="images/rocket.jpg">
+                    <question><![CDATA[This person designed the vehicle shown here.]]></question>
+                    <answer><![CDATA[Robert Stephenson - Rocket, the first modern steam locomotive]]></answer>
+                </qa>
+                <qa image="images/Buran.jpg">
+                    <question><![CDATA[Identify this vehicle.]]></question>
+                    <answer><![CDATA[Buran]]></answer>
+                    <masterNotes>It took off once in 1989 and made automated landing</masterNotes>     
+                </qa>
+            </questions>
+        </section>
+        <section id="2" name="Current Affairs">
+            <questions>
+                <qa>
+                    <question>The Central government sanctioned infrastructure projects worth Rs. 34,000 Cr recently. It includes this project for our city</question>
+                    <answer><![CDATA[Chennai Metro]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This Governor of Illinois was tossed out for selling the U.S. Senate seat once held by President Barack Obama.]]></question>
+                    <answer><![CDATA[Rod Blagojevich]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[Slumdog Millionaire is an adaptation of the Boeke Prize winning novel "Q and A" by this author and diplomat.]]></question>
+                    <answer><![CDATA[Vikas Swarup]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[NATO representatives and lawmakers are meeting in Iceland today to discuss security challenges in this area where nations are fighting to lay claims for oil reserves.]]></question>
+                    <answer><![CDATA[The Arctic]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[193 people belonging to this community in Myanmar were detained by Indonesian Navy.]]></question>
+                    <answer><![CDATA[Rohingyas]]></answer>
+                </qa>
+
+            </questions>
+        </section>        
+        <section id="3" name="When they were young">
+            <questions>
+                <qa image="images/spears.jpg">
+                    <question><![CDATA["Womanizer" is one of her (the girl, not the mouse) latest singles.]]></question>
+                    <answer><![CDATA[Britney Spears]]></answer>
+                </qa>
+                <qa image="images/gates.png">
+                    <question><![CDATA[This person is one of the greatest philanthropists of our time.]]></question>
+                    <answer><![CDATA[Bill Gates]]></answer>
+                    <masterNotes>Arrested in New Mexico in 1977 for traffic violation</masterNotes>                    
+                </qa>                
+                <qa image="images/dhoni.jpg">
+                    <question><![CDATA[This famous person was born on July 7, 1981 in Jharkhand.]]></question>
+                    <answer><![CDATA[Mahendra Singh Dhoni]]></answer>
+                </qa>                
+                <qa image="images/obama.jpg">
+                    <question><![CDATA[This kid seen with his grandfather, Stanley Dunham, attended schools in Indonesia & Hawaii.]]></question>
+                    <answer><![CDATA[Barack Obama]]></answer>
+                </qa>
+                <qa image="images/einstein.jpg">
+                    <question><![CDATA[This kid was considered a slow learner, possibly due to dyslexia.]]></question>
+                    <answer><![CDATA[Albert Einstein]]></answer>
+                    <masterNotes>Dyslexia is a learning disability, particularly with reading and spelling</masterNotes>                                        
+                </qa>                
+            </questions>
+        </section>
+
+        <section id="4" name="India">
+            <questions>
+                <qa>
+                    <question><![CDATA[The name of our country is derived from this most important river in Pakistan.]]></question>
+                    <answer><![CDATA[Indus River]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This river, which sounds similar to a cricket ball, has a bridge called Rabindra Setu across it.]]></question>
+                    <answer><![CDATA[River Hooghly (Howrah Bridge)]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This surgeon from the Dhanvantari School of Ayurveda is regarded as the 'father of surgery'.]]></question>
+                    <answer><![CDATA[Sushruta]]></answer>
+                    <masterNotes>book Sushruta Samhita - 6th Century BC</masterNotes>
+                </qa>
+                <qa>
+                    <question><![CDATA[One of the official languages of India, this is also the official language of Sikkim.]]></question>
+                    <answer><![CDATA[Nepali]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This is the oldest and continuously inhabited city in India, and perhaps in the world.]]></question>
+                    <answer><![CDATA[Benaras (Varanasi)]]></answer>
+                </qa>
+            </questions>
+        </section>
+    </round>
+    
+    <round>
+        <points values="100,200,300,400,500"/>
+        <section id="1" name="Potpourri">
+            <questions>
+                <qa>
+                    <question><![CDATA["Business Transformation. Together." is the tagline of this company.]]></question>
+                    <answer><![CDATA[Satyam Computer Services Limited]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This form of music is translated as "Empty Orchestra" in Japanese.]]></question>
+                    <answer><![CDATA[Karaoke]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Bill Gates Teacher Training Institute is located in this town.]]></question>
+                    <answer><![CDATA[Gingee, villupuram]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[These animals are said to account for more human deaths in Africa than any other African mammal.]]></question>
+                    <answer><![CDATA[Hippopotamus ]]></answer>
+                </qa>                
+                <qa>
+                    <question><![CDATA[One trillion terabytes is this.]]></question>
+                    <answer><![CDATA[1 Yottabyte (Tera - Peta - Exa - Zetta - Yotta)]]></answer>
+                    <masterNotes>1000^4 is tera, peta, exa, zetta and yotta</masterNotes>                    
+                </qa>
+            </questions>
+        </section>
+        <section id="2" name="Indian Women Achievers">
+            <questions>
+                <qa>
+                    <question><![CDATA[She is the first Indian woman to have reached the fourth round of a Grand Slam.]]></question>
+                    <answer><![CDATA[Sania Mirza]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[A South Indian, from being a housewife, she went on to own a publishing house, selling more than 3,50,000 copies of her books.]]></question>
+                    <answer><![CDATA[Mallika Badrinath]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This lady was born in Haryana. An asteroid, #51826 is named afer her.]]></question>
+                    <answer><![CDATA[Kalpana Chawla]]></answer>
+                    <masterNotes><![CDATA[She was one of the astronauts killed in the space shuttle Columbia disaster.]]></masterNotes>                                        
+                </qa>
+                <qa>
+                    <question><![CDATA[Once a native of Chennai, she is currently the top paid female CEO in the US. She was rated as the 3rd most powerful woman in the world in 2008 by Forbes.]]></question>
+                    <answer><![CDATA[Indira Nooyi, CEO of PepsiCo]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[Hailing from Vijayawada, this woman is now the CTO of Cisco Systems and formerly the CTO of Motorola.]]></question>
+                    <answer><![CDATA[Padmasree Warrior]]></answer>
+                </qa>
+            </questions>
+        </section>
+        <section id="3" name="Pictograms">
+            <questions>
+                <qa image="images/pict/split.gif">
+                    <question></question>
+                    <answer><![CDATA[Split Personality]]></answer>
+                </qa>
+                <qa image="images/pict/h2o.gif">
+                    <question></question>
+                    <answer><![CDATA[H2O (Water)]]></answer>
+                </qa>
+                <qa image="images/pict/overseas.gif">
+                    <question></question>
+                    <answer><![CDATA[Travel Overseas]]></answer>
+                </qa>
+                <qa image="images/pict/summary.gif">
+                    <question></question>
+                    <answer><![CDATA[Summary]]></answer>
+                </qa>
+                <qa image="images/pict/pain.gif">
+                    <question></question>
+                    <answer><![CDATA[Painless Operation]]></answer>
+                </qa>                                                                
+            </questions>
+        </section>
+        <section id="4" name="World Capitals">
+            <questions>
+                <qa>
+                    <question><![CDATA[The Louvre, one of the largest museums that contains art such as Mona Lisa, is located in this city.]]></question>
+                    <answer><![CDATA[Paris, France]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This city's rugby (football) team is aptly named the Kangaroos.]]></question>
+                    <answer><![CDATA[Canberra, Australia]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[This capital city is very close to the equator and situated on the Andes mountains.]]></question>
+                    <answer><![CDATA[Quito, Ecuador]]></answer>
+                    <masterNotes><![CDATA[Cotopaxi is very close to it - one of the highest active volcanos]]></masterNotes>                       
+                </qa>
+                <qa>
+                    <question><![CDATA[Yesterday, riots and thefts left atleast 43 people dead in this capital city of Madagascar.]]></question>
+                    <answer><![CDATA[Antananarivo]]></answer>
+                </qa>
+                <qa>
+                    <question><![CDATA[The name of this capital of Belarus sounds similar to that of a fur coat.]]></question>
+                    <answer><![CDATA[Minsk]]></answer>
+                </qa>
+            </questions>
+        </section>
+    </round>    
+</quiz>

@@ -1,0 +1,1 @@
+java -cp lib/commons-el.jar;lib/commons-logging.jar;lib/jasper-compiler.jar;lib/jasper-runtime.jar;lib/javax.servlet.jar;lib/mx4j-remote.jar;lib/mx4j-tools.jar;lib/mx4j.jar;lib/org.mortbay.jetty.jar;lib/org.mortbay.jmx.jar;lib/xercesImpl.jar;lib/xml-apis.jar;lib/xmlParserAPIs-2.5.jar;lib/castor-0.9.5.3-xml.jar;lib/ant.jar;lib/quiz.jar net.raj.quiz.QuizGame
